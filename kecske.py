@@ -1,0 +1,1 @@
+print("szeretem az őszt")
