@@ -1,1 +1,1 @@
-print("szertetem a fradit")
+print("szertetem a fradit 673526")
