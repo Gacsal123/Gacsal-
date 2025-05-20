@@ -1,0 +1,1 @@
+print("szertetem a fradit")
