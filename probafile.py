@@ -1,1 +1,1 @@
-print("e egy proba")
+print("e egy proba ami a második")
